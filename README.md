@@ -1,0 +1,1 @@
+This ropository is abaut shell basics
